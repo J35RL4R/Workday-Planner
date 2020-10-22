@@ -1,7 +1,7 @@
 weather-dashboard
 A weather dashboard that tells you the forecast, saves searchs and renders previously searched cities. Uses open weather maps api.
 
-![workday scheduler image](https://j35rl4r.github.io/responsive.portfolio.second.edition/images/weather-dashboard.PNG)
+![workday scheduler image](https://j35rl4r.github.io/responsive.portfolio.second.edition/images/workdayplanner.PNG)
 Files and Directories
 index.html
 script.js

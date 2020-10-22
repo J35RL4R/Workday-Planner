@@ -1,5 +1,5 @@
-weather-dashboard
-A weather dashboard that tells you the forecast, saves searchs and renders previously searched cities. Uses open weather maps api.
+Workday Planner
+An application that helps you stay organized with moment.js and local storage..
 
 ![workday scheduler image](https://j35rl4r.github.io/responsive.portfolio.second.edition/images/workdayplanner.PNG)
 Files and Directories
